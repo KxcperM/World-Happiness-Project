@@ -82,7 +82,7 @@ A stacked bar chart breaking down exactly how much each factor contributes to th
 | numpy | Numerical operations and trend line fitting |
 
 
-## How to Run
+## How to Use
 
 **1. Clone the repository**
 ```bash
