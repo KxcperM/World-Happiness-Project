@@ -1,6 +1,6 @@
 # World Happiness Project
 
-This project is a full exploratory data analysis of the World Happiness Report 2023, built entirely in Python. This project covers data cleaning, statistical analysis, and six data visualisations to uncover what drives happiness across 137 countries.
+This project is a full exploratory data analysis of the World Happiness Report 2023, which has been built entirely in Python. It covers data cleaning, statistical analysis and six visualisations to uncover what drives happiness across 137 countries.
 
 ## Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
