@@ -1,4 +1,4 @@
-# World Happiness Report 2023 — Exploratory Data Analysis
+# World Happiness Project
 
 A full exploratory data analysis of the **World Happiness Report 2023**, built entirely in Python. This project covers data cleaning, statistical analysis, and six data visualisations to uncover what drives happiness across 137 countries.
 
