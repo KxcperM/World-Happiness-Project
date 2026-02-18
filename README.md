@@ -110,7 +110,7 @@ python world_happiness_eda.py
 All 6 plots will be saved as PNG files automatically in the same folder.
 
 
-## Data Source
+## Dataset
 
 - **Dataset:** World Happiness Report 2023
 - **Source:** [Kaggle](https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2023)
@@ -118,11 +118,3 @@ All 6 plots will be saved as PNG files automatically in the same folder.
 - **Countries covered:** 137
 - **Key metric:** Ladder Score (0–10 self-reported life satisfaction scale)
 
-
-## Author
-
-**Kacper Mickiewicz**
-Data professional with 2 years of experience as a Data Engineer, a first-class degree in Computer Science, and a Microsoft Power BI Data Analyst Associate certification (PL-300).
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/kacper-mickiewicz-4983a7219)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-lightgrey?logo=github)](https://kxcperm.github.io/Portfolio-Website/)
