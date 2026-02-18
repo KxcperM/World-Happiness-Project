@@ -109,7 +109,6 @@ python world_happiness_eda.py
 
 All 6 plots will be saved as PNG files automatically in the same folder.
 
----
 
 ## Data Source
 
@@ -119,7 +118,6 @@ All 6 plots will be saved as PNG files automatically in the same folder.
 - **Countries covered:** 137
 - **Key metric:** Ladder Score (0–10 self-reported life satisfaction scale)
 
----
 
 ## Author
 
