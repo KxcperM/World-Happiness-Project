@@ -4,6 +4,9 @@ A full exploratory data analysis of the **World Happiness Report 2023**, built e
 
 ---
 
+## Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 ## Project Overview
 
 The World Happiness Report ranks countries by how happy their citizens perceive themselves to be, drawing on six key factors: GDP per capita, social support, life expectancy, freedom, generosity, and perceptions of corruption.
