@@ -17,7 +17,6 @@ This project answers the following questions:
 - Does wealth alone explain happiness?
 - What combination of factors drives the top-ranked nations?
 
----
 
 ## Visualisations
 
