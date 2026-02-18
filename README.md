@@ -86,7 +86,7 @@ A stacked bar chart breaking down exactly how much each factor contributes to th
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/your-username/world-happiness-eda.git
+git clone https://github.com/KxcperM/World-Happiness-Project.git
 cd world-happiness-eda
 ```
 
@@ -100,11 +100,11 @@ pip install pandas matplotlib seaborn numpy
 Download `WHR2023.csv` from Kaggle:
 [World Happiness Report 2023](https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2023)
 
-Place the file in the same folder as `world_happiness_eda.py`.
+Place the file in the same folder as `WorldHappiness.py`.
 
 **4. Run the script**
 ```bash
-python world_happiness_eda.py
+python/WorldHappiness.py
 ```
 
 All 6 plots will be saved as PNG files automatically in the same folder.
