@@ -60,7 +60,6 @@ A horizontal bar chart ranking each of the six factors by their Pearson correlat
 
 A stacked bar chart breaking down exactly how much each factor contributes to the happiness score of the top 20 countries. GDP and social support dominate across the board, while generosity and low corruption play a smaller but consistent role.
 
----
 
 ## Key Findings
 
@@ -71,7 +70,6 @@ A stacked bar chart breaking down exactly how much each factor contributes to th
 - **Generosity** shows the weakest correlation with happiness (r ≈ 0.07)
 - Wealth and community together account for the largest share of explained happiness in every top-ranked country
 
----
 
 ## Tools & Libraries
 
@@ -83,7 +81,6 @@ A stacked bar chart breaking down exactly how much each factor contributes to th
 | seaborn | Statistical visualisation styling |
 | numpy | Numerical operations and trend line fitting |
 
----
 
 ## How to Run
 
