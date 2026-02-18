@@ -104,7 +104,7 @@ Place the file in the same folder as `WorldHappiness.py`.
 
 **4. Run the script**
 ```bash
-python/WorldHappiness.py
+python WorldHappiness.py
 ```
 
 All 6 plots will be saved as PNG files automatically in the same folder.
