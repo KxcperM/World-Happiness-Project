@@ -87,7 +87,7 @@ A stacked bar chart breaking down exactly how much each factor contributes to th
 **1. Clone the repository**
 ```bash
 git clone https://github.com/KxcperM/World-Happiness-Project.git
-cd world-happiness-eda
+cd World-Happiness-Project
 ```
 
 **2. Install dependencies**
@@ -116,5 +116,4 @@ All 6 plots will be saved as PNG files automatically in the same folder.
 - **Source:** [Kaggle](https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2023)
 - **Original report:** [World Happiness Report](https://worldhappiness.report/)
 - **Countries covered:** 137
-- **Key metric:** Ladder Score (0–10 self-reported life satisfaction scale)
 
