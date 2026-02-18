@@ -20,42 +20,42 @@ This project answers the following questions:
 
 ## Visualisations
 
-### Plot 1 — Happiest & Least Happy Countries
+### Plot 1: Happiest & Least Happy Countries
 ![Top and Bottom 10 Countries](images/plot1_top_bottom_countries.png)
 
 A side-by-side horizontal bar chart comparing the 10 happiest and 10 least happy countries. Finland leads the ranking while Afghanistan sits at the bottom, with a score gap of over 5 points between them.
 
 ---
 
-### Plot 2 — Distribution of Global Happiness Scores
+### Plot 2: Distribution of Global Happiness Scores
 ![Score Distribution](images/plot2_score_distribution.png)
 
 A histogram with a KDE curve showing how happiness scores are spread across all countries. The mean and median lines reveal a slight left skew, indicating a larger cluster of lower-scoring nations pulling the average down.
 
 ---
 
-### Plot 3 — Correlation Heatmap
+### Plot 3: Correlation Heatmap
 ![Correlation Heatmap](images/plot3_correlation_heatmap.png)
 
 A lower-triangle heatmap showing how each factor correlates with happiness and with each other. GDP per capita and social support emerge as the strongest predictors, while generosity shows the weakest relationship.
 
 ---
 
-### Plot 4 — GDP per Capita vs Happiness Score
+### Plot 4: GDP per Capita vs Happiness Score
 ![GDP vs Happiness](images/plot4_gdp_vs_happiness.png)
 
 A scatter plot of all 137 countries, coloured by happiness score on a red-to-green scale, with a trend line overlaid. The top 5 and bottom 5 countries are labelled directly on the chart. The strong upward trend confirms that wealthier nations consistently score higher.
 
 ---
 
-### Plot 5 — Factor Correlations with Happiness
+### Plot 5: Factor Correlations with Happiness
 ![Factor Correlations](images/plot5_factor_correlations.png)
 
 A horizontal bar chart ranking each of the six factors by their Pearson correlation with happiness score. Green bars indicate a positive relationship; red indicates negative. This chart makes it immediately clear which levers matter most.
 
 ---
 
-### Plot 6 — What Drives Happiness? Factor Breakdown (Top 20)
+### Plot 6: What Drives Happiness? Factor Breakdown (Top 20)
 ![Factor Breakdown](images/plot6_factor_breakdown.png)
 
 A stacked bar chart breaking down exactly how much each factor contributes to the happiness score of the top 20 countries. GDP and social support dominate across the board, while generosity and low corruption play a smaller but consistent role.
